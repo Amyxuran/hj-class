@@ -1,3 +1,0 @@
-# hj-class
-homework
-thisishjclass
